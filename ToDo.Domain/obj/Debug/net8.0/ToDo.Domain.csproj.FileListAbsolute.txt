@@ -1,0 +1,11 @@
+C:\Proyectos\To-Do-List\ToDo.Domain\bin\Debug\net8.0\ToDo.Domain.deps.json
+C:\Proyectos\To-Do-List\ToDo.Domain\bin\Debug\net8.0\ToDo.Domain.dll
+C:\Proyectos\To-Do-List\ToDo.Domain\bin\Debug\net8.0\ToDo.Domain.pdb
+C:\Proyectos\To-Do-List\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\To-Do-List\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.AssemblyInfoInputs.cache
+C:\Proyectos\To-Do-List\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.AssemblyInfo.cs
+C:\Proyectos\To-Do-List\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.csproj.CoreCompileInputs.cache
+C:\Proyectos\To-Do-List\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.dll
+C:\Proyectos\To-Do-List\ToDo.Domain\obj\Debug\net8.0\refint\ToDo.Domain.dll
+C:\Proyectos\To-Do-List\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.pdb
+C:\Proyectos\To-Do-List\ToDo.Domain\obj\Debug\net8.0\ref\ToDo.Domain.dll
