@@ -1,4 +1,5 @@
-﻿using ToDo.Domain;
+﻿using System.Collections.Generic;
+using ToDo.Domain;
 using ToDo.Domain.Entities;
 
 namespace ToDo.Persistence
@@ -56,7 +57,9 @@ namespace ToDo.Persistence
 
         public async Task<IEnumerable<ToDoItem>> GetFinishedItemsAsync()
         {
-            return await Task.FromResult(getToDoListResponses.Where(item => item.Status == ToDoStatus.Finished).Take(10));
+            IEnumerable<ToDoItem> finishedItems = getToDoListResponses.Where(item => item.Status == ToDoStatus.Finished);
+
+            return await Task.FromResult(finishedItems.Skip(Math.Max(0, finishedItems.Count() - 10)).Take(10));
         }
     }
 }
